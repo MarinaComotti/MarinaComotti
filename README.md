@@ -19,7 +19,7 @@ Fine-tuning of the Llama 3 model: Creation of a Large Language Model (LLM) speci
 
 ### 📬 Contact:
 - Email: **comotti.mar@gmail.com**
-- LinkedIn: [**Marina Comotti**](www.linkedin.com/in/comotti-marina)
+- LinkedIn: www.linkedin.com/in/comotti-marina
 
 <!--
 **MarinaComotti/MarinaComotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
