@@ -9,7 +9,7 @@ Development of a specialized Large Language Model (LLM) for answering questions 
   - Technologies Used:  **Python, Hugging Face libraries (Transformers, Datasets, PEFT, Accelerate, Evaluate), Pytorch, Weights & Biases, NumPy, Matplotlib.**
 
 * **[Malaria Project (Computer Vision):](https://github.com/MarinaComotti/Malaria_Project_Deep_Learning_CV)**
-  Detection of Malaria in Images: Developed a binary classification model with approximately 95% accuracy for detecting malaria in blood smear images, utilizing fine-tuning and transfer learning of the NasNetMobile model. Additionally, created a Streamlit application that allows users to test the model with new samples.
+  Detection of Malaria in Images: Developed a binary classification model with 95% accuracy for detecting malaria in blood smear images, utilizing fine-tuning and transfer learning techniques. Additionally, a Streamlit application deployed through Google Cloud was created that allows users to use the model with new samples.
     - Technologies used: **Python, TensorFlow, Keras, Scikit-Learn, NumPy, Pandas, Streamlit, Docker, Google Cloud.**
 
 * **[Ferreplus App (Web Application):](https://github.com/MarinaComotti/ferreplus-django-app)**
