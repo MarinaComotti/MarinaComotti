@@ -4,8 +4,8 @@
 Hi, I'm Marina Comotti, a **Machine Learning Engineer** passionate about technology, innovation, and continuous learning. I am a Computer Science student at the Faculty of Computer Science, National University of La Plata (Facultad de Informática, Universidad Nacional de La Plata). 
 
 ### 💻 My projects:
-* **[Finance Q&A Chat (Natural Language Processing):](https://github.com/MarinaComotti/Finance_QA_Chat)** 
-Fine-tuning of the Llama 3 model: Development of a specialized Large Language Model (LLM) for answering questions related to the financial sector through a fine-tuning process on Meta's open-source model Llama 3 🦙.
+* **[Finance Q&A Chat (Natural Language Processing):](https://github.com/MarinaComotti/Finance_QA_Chat)**
+Development of a specialized Large Language Model (LLM) for answering questions related to the financial sector through a fine-tuning process on Meta's open-source model Llama 3 🦙.
   - Technologies Used:  **Python, Hugging Face libraries (Transformers, Datasets, PEFT, Accelerate, Evaluate), Pytorch, Weights & Biases, NumPy, Matplotlib.**
 
 * **[Malaria Project (Computer Vision):](https://github.com/MarinaComotti/Malaria_Project_Deep_Learning_CV)**
