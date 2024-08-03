@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🍄 About Me 
-Hi, I'm Marina Comotti, a **Machine Learning Developer** passionate about technology, innovation, and continuous learning. I am a Computer Science student at the Faculty of Computer Science, National University of La Plata (Facultad de Informática, Universidad Nacional de La Plata). 
+Hi, I'm Marina Comotti, a **Machine Learning Engineer** passionate about technology, innovation, and continuous learning. I am a Computer Science student at the Faculty of Computer Science, National University of La Plata (Facultad de Informática, Universidad Nacional de La Plata). 
 
 ### 💻 My projects:
 * **[Finance Q&A Chat (Natural Language Processing):](https://github.com/MarinaComotti/Finance_QA_Chat)** 
