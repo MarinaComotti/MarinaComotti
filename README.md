@@ -5,7 +5,7 @@ Hi, I'm Marina Comotti, a **Machine Learning Engineer** passionate about technol
 
 ### 💻 My projects:
 * **[Finance Specialist AI (Natural Language Processing):](https://github.com/MarinaComotti/Finance_Specialist_AI)**
-Development of a specialized Large Language Model (LLM) for answering questions related to the financial sector through a fine-tuning process on Meta's open-source model Llama 3 📊.
+Developed a specialized Large Language Model (LLM) for answering questions related to the financial sector through a fine-tuning process on Meta's open-source model Llama 3 📊.
   - Technologies Used:  **Python, Hugging Face libraries (Transformers, Datasets, PEFT, Accelerate, Evaluate), Pytorch, Weights & Biases, NumPy, Matplotlib.**
 
 * **[Malaria Project (Computer Vision):](https://github.com/MarinaComotti/Malaria_Project_Deep_Learning_CV)**
